@@ -1,0 +1,5 @@
+to be improved:
+- images
+- add obstacles
+- more butterflies towards the flower
+- integrated interaction with the user's mouse

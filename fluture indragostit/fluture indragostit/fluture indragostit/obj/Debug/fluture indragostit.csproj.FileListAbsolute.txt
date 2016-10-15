@@ -1,0 +1,26 @@
+D:\11E\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe.config
+D:\11E\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe
+D:\11E\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.pdb
+D:\11E\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Form1.resources
+D:\11E\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Properties.Resources.resources
+D:\11E\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.csproj.GenerateResource.Cache
+D:\11E\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.exe
+D:\11E\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.pdb
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe.config
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.exe
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.pdb
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.pdb
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.csprojResolveAssemblyReference.cache
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Form1.resources
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Properties.Resources.resources
+D:\11 E\c#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.csproj.GenerateResource.Cache
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe.config
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.exe
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.pdb
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.exe
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\bin\Debug\fluture indragostit.pdb
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.csprojResolveAssemblyReference.cache
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Form1.resources
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture_indragostit.Properties.Resources.resources
+D:\DOCs\C#\fluturas\fluture indragostit\fluture indragostit\fluture indragostit\obj\Debug\fluture indragostit.csproj.GenerateResource.Cache
